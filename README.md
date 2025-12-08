@@ -75,7 +75,7 @@ L’objectif de ce projet est de développer une application complète de gestio
 
 - *Courbes et graphiques via QuantiteGraphe.java*
 
-Analyse des quantités vendues
+- *Analyse des quantités vendues*
 
 ---
 

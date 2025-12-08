@@ -1,10 +1,10 @@
 ---
 
- ### Projet : Application de Gestion Agroalimentaire
+ ## Projet : Application de Gestion Agroalimentaire
 
 ---
 
-### 1. Objectif du projet
+## 1. Objectif du projet
 
 L’objectif de ce projet est de développer une application complète de gestion agroalimentaire permettant de suivre :
 
@@ -22,57 +22,69 @@ L’objectif de ce projet est de développer une application complète de gestio
 
 ###  L’application facilite :
 
-**la traçabilité, 
+- **la traçabilité**
 
-**la gestion quotidienne, 
+- **la gestion quotidienne**
 
-**visualisation graphique des données.
+- **visualisation graphique des données**
 
-⚙️ 2. Fonctionnalités du projet
-👤 Gestion des utilisateurs
+## 2. Fonctionnalités du projet
 
-Authentification via login / mot de passe
+ #### Gestion des utilisateurs
 
-Vérification des identifiants en base de données
+- *Authentification via login / mot de passe*
 
-🚜 Gestion des agriculteurs
+- *Vérification des identifiants en base de données*
 
-Ajouter, modifier, supprimer un agriculteur
+ #### Gestion des agriculteurs
 
-Rechercher un agriculteur
+- *Ajouter, modifier, supprimer un agriculteur*
 
-Liste complète sous forme de tableau
+- *Rechercher un agriculteur*
 
-🥬 Gestion des produits agricoles
+- *Liste complète sous forme de tableau*
 
-Ajouter un produit
+#### Gestion des produits agricoles
 
-Associer un type de produit
+- *Ajouter un produit*
 
-Modifier / supprimer
+- *Associer un type de produit*
 
-Liste complète
+- *Modifier / supprimer*
 
-💰 Gestion des ventes
+ - *Liste complète*
 
-Ajouter une vente
+#### Gestion des ventes
 
-Associer un produit + agriculteur
+- *Ajouter une vente*
+- *Associer un produit + agriculteur*
 
-Modification / suppression
+- *Modification / suppression*
 
-Conversion des dates
+- *Conversion des dates*
 
-Gestion des quantités
+- *Gestion des quantités*
 
-🏘️ Gestion des communes & types
+#### Gestion des communes & types
 
-Ajouter / modifier / supprimer
+- *Ajouter / modifier / supprimer*
 
-Liste complète
+- *Liste complète*
 
-📊 Statistiques
+#### Statistiques
 
-Courbes et graphiques via QuantiteGraphe.java
+- *Courbes et graphiques via QuantiteGraphe.java*
 
 Analyse des quantités vendues
+
+---
+
+## 3. MCD du Projet :
+
+
+
+
+
+
+
+-

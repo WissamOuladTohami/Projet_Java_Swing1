@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\cli\Documents\NetBeansProjects\Projet\dist\Projet.jar</jar>
+  <outfile>C:\Users\cli\Documents\NetBeansProjects\Projet\dist\Projet.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon></icon>
+  <classPath>
+    <mainClass>ui.Main</mainClass>
+    <cp>C:\Users\cli\Documents\NetBeansProjects\Projet\dist\Projet.jar</cp>
+    <cp>lib/mysql-connector-java-5.1.23-bin.jar</cp>
+    <cp>lib/jcalendar-0.8.1.jar</cp>
+    <cp>lib/jfreechart-1.0.19.jar</cp>
+    <cp>lib/jcommon-1.0.23.jar</cp>
+    <cp>lib/javax.mail.jar</cp>
+  </classPath>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>

@@ -82,7 +82,7 @@ L’objectif de ce projet est de développer une application complète de gestio
 
 ## 3. MCD du Projet :
 
-<img width="1335" height="575" alt="MCD" src="https://github.com/user-attachments/assets/1661de8f-59eb-413d-b8ed-65dcb05ed979" />
+<img width="953" height="638" alt="MCD" src="https://github.com/user-attachments/assets/aa6894dd-33c9-4927-8a6b-12628e41c0b5" />
 
 
 ---

@@ -80,14 +80,55 @@ L’objectif de ce projet est de développer une application complète de gestio
 
 ---
 
-## 3. MCD du Projet :
+## 3. Architecture du Projet :
+
+src/
+ ├── connexion/
+ │    └── Connexion.java
+ │
+ │
+ ├── dao/
+ │    ├── IDao.java
+ │
+ │
+ ├── entities/
+ │    ├── Agriculteur.java
+ │    ├── ProduitAgro.java
+ │    ├── VenteAgro.java
+ │    ├── Utilisateur.java
+ │
+ │── services/
+ │    ├── AgriculteurService.java
+ │    ├── ProduitAgroService.java
+ │    ├── EmailService.java
+ │    ├── UtilisateurService.java
+ │    ├── VenteAgroService.java
+ │    └── 
+ │
+ ├── ui/
+ │    ├── Main.java
+ │    ├── LoginForm.java
+ │    ├── AgriculteurForm.java
+ │    ├── ProduitForm.java
+ │    ├── VenteForm.java
+ │    └── 
+ │
+ ├── test/
+ │    ├── TestAgriculteur.java
+ │    └── TestProduitAgro.java
+ │    └── TestVenteAgro.java
+
+
+---
+
+## 4. MCD du Projet :
 
 <img width="953" height="638" alt="MCD" src="https://github.com/user-attachments/assets/aa6894dd-33c9-4927-8a6b-12628e41c0b5" />
 
 
 ---
 
-## 4. Video Représentatif :
+## 5. Video Représentatif :
 
 
 

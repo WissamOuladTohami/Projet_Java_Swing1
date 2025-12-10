@@ -34,13 +34,15 @@ L’objectif de ce projet est de développer une application complète de gestio
 
 - *Authentification via login / mot de passe*
 
+- *Inscription des nouveaux Utilisateurs*
+
+- *Géneration du nouveau mot de passe pour ceux qui l'ont oublié*
+
 - *Vérification des identifiants en base de données*
 
  #### Gestion des agriculteurs
 
 - *Ajouter, modifier, supprimer un agriculteur*
-
-- *Rechercher un agriculteur*
 
 - *Liste complète sous forme de tableau*
 
@@ -57,6 +59,7 @@ L’objectif de ce projet est de développer une application complète de gestio
 #### Gestion des ventes
 
 - *Ajouter une vente*
+  
 - *Associer un produit + agriculteur*
 
 - *Modification / suppression*
@@ -67,9 +70,7 @@ L’objectif de ce projet est de développer une application complète de gestio
 
 #### Gestion des communes & types
 
-- *Ajouter / modifier / supprimer*
-
-- *Liste complète*
+- *Liste complète et filtrée*
 
 #### Statistiques
 

@@ -82,41 +82,7 @@ L’objectif de ce projet est de développer une application complète de gestio
 
 ## 3. Architecture du Projet :
 
-src/
- ├── connexion/
- │    └── Connexion.java
- │
- │
- ├── dao/
- │    ├── IDao.java
- │
- │
- ├── entities/
- │    ├── Agriculteur.java
- │    ├── ProduitAgro.java
- │    ├── VenteAgro.java
- │    ├── Utilisateur.java
- │
- │── services/
- │    ├── AgriculteurService.java
- │    ├── ProduitAgroService.java
- │    ├── EmailService.java
- │    ├── UtilisateurService.java
- │    ├── VenteAgroService.java
- │    └── 
- │
- ├── ui/
- │    ├── Main.java
- │    ├── LoginForm.java
- │    ├── AgriculteurForm.java
- │    ├── ProduitForm.java
- │    ├── VenteForm.java
- │    └── 
- │
- ├── test/
- │    ├── TestAgriculteur.java
- │    └── TestProduitAgro.java
- │    └── TestVenteAgro.java
+<img width="288" height="667" alt="arch" src="https://github.com/user-attachments/assets/1824437d-5808-4276-bcff-e43793993097" />
 
 
 ---
